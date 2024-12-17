@@ -33,9 +33,13 @@
  
  
  ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+ ![image](https://user-images.gi![ex 1 2](https://github.com/user-attachments/assets/12159385-d27e-4c1f-bf24-2b56dd2a724f)
+thubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ ![Uploading ex 1.2.jpg…]()
+
+ 
  
  
  ## RESULT
