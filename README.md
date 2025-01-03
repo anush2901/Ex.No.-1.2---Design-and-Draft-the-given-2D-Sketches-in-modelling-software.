@@ -33,11 +33,10 @@
  
  
  ## SKETCH
- ![image](https://user-images.gi![ex 1 2](https://github.com/user-attachments/assets/12159385-d27e-4c1f-bf24-2b56dd2a724f)
-thubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+ ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Uploading ex 1.2.jpg…]()
+ ![WhatsApp Image 2025-01-03 at 11 23 41_484afa8c](https://github.com/user-attachments/assets/5308d46c-7279-4c89-a1aa-be5caa7e0b78)
 
  
  
